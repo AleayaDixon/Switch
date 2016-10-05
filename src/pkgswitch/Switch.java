@@ -30,6 +30,7 @@ public class Switch {
                      break;
         }
         System.out.println(monthName);
+        keyboard.close();
     }
     
 }
